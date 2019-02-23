@@ -1,8 +1,4 @@
-<!DOCTYPE html>
-<html>
-<body>
-
-<p>Testing</p>
-
-</body>
-</html>
+<?php
+  header( 'Location: index.html' );
+  die();
+?>
